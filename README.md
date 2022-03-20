@@ -1,6 +1,6 @@
 # Sample Fitness Polar Dataset
 
-This dataset comes from real data from my Polar user from the year of 2016. Note that I have modified some of the data in order to remove some pre-calculated metrics because this dataset's purpose is to teach some of my students.
+This dataset comes from real data from my Polar user, which represents 8 of my training years. Note that I have modified some of the data in order to remove some pre-calculated metrics because this dataset's purpose is to teach some of my students.
 
 The original dataset was downloaded by following the steps described [here](https://support.polar.com/en/how-to-download-all-your-data-from-polar-flow).
 
