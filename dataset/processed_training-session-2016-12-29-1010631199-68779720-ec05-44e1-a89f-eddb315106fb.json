@@ -1,0 +1,18 @@
+{
+    "exportVersion": "1.4",
+    "name": "Nata\u00c3\u00a7\u00c3\u00a3o piscina",
+    "note": "",
+    "startTime": "2016-12-29T20:07:00.000",
+    "stopTime": "2016-12-29T20:55:00.000",
+    "distance": 1116.0,
+    "exercises": [
+        {
+            "startTime": "2016-12-29T20:07:00.000",
+            "stopTime": "2016-12-29T20:55:00.000",
+            "distance": 1116.0,
+            "sport": "POOL_SWIMMING",
+            "zones": {},
+            "samples": {}
+        }
+    ]
+}

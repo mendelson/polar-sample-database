@@ -1,0 +1,15 @@
+{
+    "exportVersion": "1.4",
+    "feeling": "0.2",
+    "startTime": "2018-01-26T22:40:00.000",
+    "stopTime": "2018-01-27T00:00:00.000",
+    "exercises": [
+        {
+            "startTime": "2018-01-26T22:40:00.000",
+            "stopTime": "2018-01-27T00:00:00.000",
+            "sport": "FUTSAL",
+            "zones": {},
+            "samples": {}
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "exportVersion": "1.4",
+    "startTime": "2018-05-16T18:00:00.000",
+    "stopTime": "2018-05-16T18:30:00.000",
+    "exercises": [
+        {
+            "startTime": "2018-05-16T18:00:00.000",
+            "stopTime": "2018-05-16T18:30:00.000",
+            "sport": "STRENGTH_TRAINING",
+            "zones": {},
+            "samples": {}
+        }
+    ]
+}

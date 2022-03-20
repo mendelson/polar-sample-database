@@ -1,0 +1,16 @@
+{
+    "exportVersion": "1.4",
+    "startTime": "2017-03-10T18:00:00.000",
+    "stopTime": "2017-03-10T18:40:00.000",
+    "distance": 1188.0,
+    "exercises": [
+        {
+            "startTime": "2017-03-10T18:00:00.000",
+            "stopTime": "2017-03-10T18:40:00.000",
+            "distance": 1188.0,
+            "sport": "POOL_SWIMMING",
+            "zones": {},
+            "samples": {}
+        }
+    ]
+}

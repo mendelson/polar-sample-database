@@ -1,0 +1,16 @@
+{
+    "exportVersion": "1.4",
+    "startTime": "2016-05-04T21:12:21.255",
+    "stopTime": "2016-05-04T21:28:09.666",
+    "distance": 2540.0,
+    "exercises": [
+        {
+            "startTime": "2016-05-04T21:12:21.255",
+            "stopTime": "2016-05-04T21:28:09.666",
+            "distance": 2540.0,
+            "sport": "RUNNING",
+            "zones": {},
+            "samples": {}
+        }
+    ]
+}
